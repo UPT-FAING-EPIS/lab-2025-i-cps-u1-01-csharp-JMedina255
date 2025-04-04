@@ -1,0 +1,15 @@
+﻿C:\Users\HP\Desktop\JMedina255\lab-2025-i-cps-u1-01-csharp-JMedina255\Bank\Bank.Domain.Tests\BankAccountTests.cs
+C:\Users\HP\.nuget\packages\microsoft.net.test.sdk\17.13.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\HP\.nuget\packages\microsoft.testplatform.testhost\17.13.0\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\HP\.nuget\packages\microsoft.testplatform.testhost\17.13.0\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\nunit.engine.dll
+C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\HP\Desktop\JMedina255\lab-2025-i-cps-u1-01-csharp-JMedina255\Bank\Bank.Domain.Tests\TestResults\059f97f4-b298-4099-a23c-753bcdf0cfed\coverage.cobertura.xml
+C:\Users\HP\Desktop\JMedina255\lab-2025-i-cps-u1-01-csharp-JMedina255\Bank\Bank.Domain.Tests\TestResults\1a322bc0-a7f1-44de-af34-4c7a9414aab4\coverage.cobertura.xml
+C:\Users\HP\Desktop\JMedina255\lab-2025-i-cps-u1-01-csharp-JMedina255\Bank\Bank.Domain.Tests\TestResults\7a52bacd-6b9e-42ed-92b5-bb225fbdd19a\coverage.opencover.xml
+C:\Users\HP\Desktop\JMedina255\lab-2025-i-cps-u1-01-csharp-JMedina255\Bank\Bank.Domain.Tests\TestResults\e7ed12be-76ec-441c-bbe2-bb8772a0ae05\coverage.cobertura.xml
+C:\Users\HP\Desktop\JMedina255\lab-2025-i-cps-u1-01-csharp-JMedina255\Bank\Bank.Domain.Tests\TestResults\f2d0e5d0-43c5-4ee3-830b-9d97ccc06cd6\coverage.opencover.xml
