@@ -1,0 +1,7 @@
+organization=jmedina255
+projectKey=jmedina255_apibank
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.61474
+dashboardUrl=https://sonarcloud.io/dashboard?id=jmedina255_apibank
+ceTaskId=AZX-mrh9w8hPKcRHkRIr
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZX-mrh9w8hPKcRHkRIr

@@ -15,16 +15,14 @@ namespace Bank.Domain.Models
         public void Debit(double amount)
         {
             ArgumentOutOfRangeException.ThrowIfGreaterThan(amount, m_balance);
-            if (amount < 0)
-                throw new ArgumentOutOfRangeException(nameof(amount));
-
+            ArgumentOutOfRangeException.ThrowIfNegative(amount);
+            
             m_balance -= amount;
         }
 
         public void Credit(double amount)
         {
-            if (amount < 0)
-                throw new ArgumentOutOfRangeException("amount");
+            ArgumentOutOfRangeException.ThrowIfNegative(amount);
             m_balance += amount;
         }
     }
